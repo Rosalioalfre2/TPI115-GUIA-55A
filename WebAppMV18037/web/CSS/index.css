@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+label{
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+table th{
+    text-align: center;
+}
+
+body{
+    background-color: rgba(218, 165, 32, 0.4);
+}
+
+.contenedor{
+    margin-top: 25px;
+    background-color: lightgray;
+}
+
+#controlSesiones{
+    margin: 5% 20% 5% 20%;
+    border: black solid 2px;
+    padding: 2%;
+}
